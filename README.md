@@ -18,30 +18,9 @@ The program takes input from the user and provides the result in the selected nu
 - C++ compiler (e.g., **G++** or **Clang**).
 - Basic knowledge of number system conversions (Binary, Decimal, Hexadecimal).
 
-## Getting Started
 
-1. **Clone the Repository**:
-   To get started, clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/number-system-converter.git
-   ```
-
-2. **Build the Program**:
+ **Build the Program**:
    Use a C++ compiler to build the program. For example, with **G++**, run:
-
-   ```bash
-   g++ -o converter main.cpp
-   ```
-
-   This will compile the `main.cpp` file and create an executable named `converter`.
-
-3. **Run the Program**:
-   After compiling the program, you can run it from the command line:
-
-   ```bash
-   ./converter
-   ```
 
 ## How It Works
 
